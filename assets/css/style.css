@@ -1,0 +1,37 @@
+
+#nav{
+    background-color: #0d1b2a;
+    color: white;
+}
+#nav a:hover{
+    color: #3a86ff;
+}
+#aboutme{
+    background-color: #f8f9fa;
+    color:#212529;
+}
+#skills {
+    background-color: #ffffff;
+    color:#212529;
+
+}
+#skills h4{
+color:#3a86ff;
+}
+#myprojects{
+    background-color: #e9ecef;;
+}
+#pr1{
+   background-color: #ffffff;
+}
+#contact{
+    background-color: #0d1b2a;
+    color:#ffffff;
+}
+
+section{
+    padding: 80px 0;
+}
+#pr2{
+background-color: #ffffff;
+}
